@@ -23,4 +23,3 @@ class Patient
     appointments.map(&:doctor)
   end
 end
-end
