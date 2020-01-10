@@ -17,4 +17,8 @@ class Artist
   def songs
 
   end
+
+  def genres
+
+  end
 end
